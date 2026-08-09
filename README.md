@@ -2,6 +2,8 @@
 interenship work
 
 
+
+
 while True:
     try:
         a = input("Ask a question (or type 'exit' to quit): ").lower().strip()
